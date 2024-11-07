@@ -4,7 +4,7 @@ cff-version: 1.1.0
 authors:
 - family-names: Joe
   given-names: Johnson
-orcid: https://orcid.org/0000-0000-0000-0000
+orcid:  DOI: 10.5072/zenodo.128078
 title:PatriLoto/Prueba_modulo_codigo_abierto: primera publicación
 version: test
 date-released: 2024-11-07
